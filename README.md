@@ -1,6 +1,9 @@
 
 <h1>JAVA后端架构师技术技能</h1>
 
+如需要更多架构进阶视频和各个学院VIP视频资料以及架构文档学习资料包括一些面试经验总结,可以加我微信
+<img src="https://s.nulile.cn/image/github/WechatIMG7.jpeg" width="100" height="100">
+
 
 * [数据结构](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#数据结构)
 	* [队列](https://github.com/xingshaocheng/architect-awesome/blob/master/README.md#队列)
@@ -4942,4 +4945,5 @@ TODO
 * [Vultr](https://www.vultr.com/)
 
 如需要更多架构进阶视频和各个学院VIP视频资料以及架构文档学习资料包括一些面试经验总结
-可以加我微信[![weixin](https://s.nulile.cn/image/github/WechatIMG7.jpeg)]
+可以加我微信
+<img src="https://s.nulile.cn/image/github/WechatIMG7.jpeg" width="100" height="100">
